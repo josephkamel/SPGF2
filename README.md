@@ -7,4 +7,4 @@ Synthetic Population Generator for France
 
 ## Project Diagram
 
- ![alt text](https://github.com/josephkamel/SPGF2/blob/master/SPGF2-schema.jpg)
+<img src="https://github.com/josephkamel/SPGF2/blob/master/SPGF2-schema.jpg"  height="1600">
